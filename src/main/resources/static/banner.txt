@@ -1,0 +1,5 @@
+hello bro
+
+${application.version}
+${application.formatted-version}
+${application.title}
